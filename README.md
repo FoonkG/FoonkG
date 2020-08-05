@@ -1,4 +1,6 @@
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/HdXCsZ8/New-Project-2.png" alt="New-Project-2" border="0"></a>
+<div style="width: 100%; text-align: center;">
+  <img src="https://i.ibb.co/HdXCsZ8/New-Project-2.png" alt="New-Project-2">
+</div>
 
 ### I'm FoonkG, Welcome to my GitHub Profile 👋
 
