@@ -2,9 +2,6 @@
 
 ### I'm FoonkG, Welcome to my GitHub Profile 👋
 
-- 🔭 I’m currently working on @Ruby_Raffles
-- 🌱 I’m currently learning a lot.
-- 👯 I’m looking to collaborate on Google 8)
-- 💬 Ask me about nothing, im busy!!
-- 📫 How to reach me: foonkus@gmail.com
-- ⚡ Fun fact: I used to be fat.
+I'm currently developing @Ruby_Raffles, if you want to contact me, send me an email at: foonkus@gmail.com
+
+Ciao
