@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/HdXCsZ8/New-Project-2.png" alt="New-Project-2" style="margin-left:500px;">
+<img src="https://i.ibb.co/HdXCsZ8/New-Project-2.png">
 
 ### I'm FoonkG, Welcome to my GitHub Profile 👋
 
