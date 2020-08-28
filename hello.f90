@@ -1,4 +1,4 @@
 program hello
   implicit none
-  write(*,*) 'What's up?'
+  write(*,*) "What's up?"
 end program hello
