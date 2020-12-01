@@ -2,6 +2,6 @@
 
 ### I'm Francesco Graulus, Welcome to my GitHub Profile 👋
 
-I'm currently developing @Ruby_Raffles, if you want to contact me, send me an email at: fgraulus@gmail.com
+Currently working on @RubyAIO & @SwiftSoleIOS, if you want to contact me, send me an email at: fgraulus@gmail.com.
 
 Ciao
