@@ -7,4 +7,5 @@ Currently working on my own stuff, if you want to contact me, send me an email a
 Ciao
 
 [![wakatime](https://wakatime.com/badge/user/48208030-1e5f-4ff6-8fa0-0b51302b6ccf.svg)](https://wakatime.com/@48208030-1e5f-4ff6-8fa0-0b51302b6ccf)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=foonkg)](https://github.com/FoonkG)
+
+[![Francesco's GitHub stats](https://github-readme-stats.vercel.app/api?username=foonkg)](https://github.com/FoonkG)
