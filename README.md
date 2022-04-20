@@ -8,4 +8,4 @@ Ciao
 
 [![wakatime](https://wakatime.com/badge/user/48208030-1e5f-4ff6-8fa0-0b51302b6ccf.svg)](https://wakatime.com/@48208030-1e5f-4ff6-8fa0-0b51302b6ccf)
 
-[![Francesco's GitHub stats](https://github-readme-stats.vercel.app/api?username=foonkg)](https://github.com/FoonkG&theme=tokyonight)
+[![Francesco's GitHub stats](https://github-readme-stats.vercel.app/api?username=foonkg&theme=tokyonight)](https://github.com/FoonkG)
